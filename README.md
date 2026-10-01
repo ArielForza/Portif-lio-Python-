@@ -3,8 +3,31 @@ Sistema abre navegador, abre pagina da empresa faz login no site cadastra cada p
 
 # 1º PROJETO:
 **codigo1.py** >> automação para cadastrar no banco de dados.  
-**pegar_posicao.py** >> para ajustar a posição dos cliques para o monitor usado.
-# 2º PROJETO:
+**pegar_posicao.py** >> para ajustar a posição dos cliques para o monitor usado.  
+
+## Passa a passo:  
+0 - Bibliotecas  
+1 - entrar no sistema  
+2 - Fazer Login  
+3 - Abrir base de dados  
+4 - Cadastrar produto  
+5 - repetidor do estagio 4  
+
+
+
+# 2º PROJETO:  
+
+## Passa a passo:  
+#desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolver soluçoes ?  
+0 - Bibliotecas
+1 - abrir a base de dados  
+2 - visialisar a base de dados  
+  2.1 - entenderas informações  
+  2.1 - entender problemas / erros  
+3 - corrigir problemas da base de dados  
+4 - analise inicial (entender quando os clientes cancelam)  
+5 - analise detalhanda (causa do cancelamento)  
+
 # 3º PROJETO:
 # 4º PROJETO:
 
