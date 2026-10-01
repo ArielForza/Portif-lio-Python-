@@ -18,7 +18,7 @@ Sistema abre navegador, abre pagina da empresa faz login no site cadastra cada p
 # 2º PROJETO:  
 
 ## Passa a passo:  
-#desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolver soluçoes ?  
+Desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolver soluçoes ?  
 0 - Bibliotecas
 1 - abrir a base de dados  
 2 - visialisar a base de dados  
