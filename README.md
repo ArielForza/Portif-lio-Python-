@@ -3,7 +3,8 @@ Sistema abre navegador, abre pagina da empresa faz login no site cadastra cada p
 
 # 1º PROJETO:
 **codigo1.py** >> automação para cadastrar no banco de dados.  
-**pegar_posicao.py** >> para ajustar a posição dos cliques para o monitor usado.  
+**pegar_posicao.py** >> para ajustar a posição dos cliques para o monitor usado. 
+**produtos.csv** >> base a ser lida.
 
 ## Passa a passo:  
 0 - Bibliotecas  
