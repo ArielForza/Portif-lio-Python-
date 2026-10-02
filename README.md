@@ -30,4 +30,8 @@ Desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolv
 
 # 3º PROJETO:
 # 4º PROJETO:
+#links uteis
+
+https://plotly.com/  >> gráficos para O Python.  
+
 
