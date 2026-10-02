@@ -2,8 +2,8 @@ Projeto python de automatização de cadastro de produtos em bancos de dados:
 Sistema abre navegador, abre pagina da empresa faz login no site cadastra cada produto e seus dados.
 
 # 1º PROJETO:
-**codigo1.py** >> automação para cadastrar no banco de dados.  
-**pegar_posicao.py** >> para ajustar a posição dos cliques para o monitor usado. 
+[Codigo1](codigo1.py) >> automação para cadastrar no banco de dados.  
+[Pegar Posicao](pegar_posicao.py)>> para ajustar a posição dos cliques para o monitor usado. 
 **produtos.csv** >> base a ser lida.
 
 ## Passa a passo:  
@@ -17,8 +17,8 @@ Sistema abre navegador, abre pagina da empresa faz login no site cadastra cada p
 
 
 # 2º PROJETO:  
-**codigo2.ipynb** >> código para analise de dados.
-**cancelamentos.csv** >> base a ser tratada.
+[Codigo2](codigo2.ipynb) >> código para analise de dados.
+[Cancelamentos](cancelamentos.csv) >> base a ser tratada.
 
 ## Passa a passo:  
 Desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolver soluçoes ?  
