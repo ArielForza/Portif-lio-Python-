@@ -33,7 +33,7 @@ Desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolv
 
 # 3º PROJETO:
 # 4º PROJETO:
-#links uteis
+# links uteis
 
 [Plotly](https://plotly.com/)  >> gráficos para O Python.  
 [Kaggle](https://www.kaggle.com/datasets) >> banco de dados compartilhados para projetos.
