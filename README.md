@@ -18,7 +18,7 @@ Sistema abre navegador, abre pagina da empresa faz login no site cadastra cada p
 
 # 2º PROJETO:  
 **codigo2.ipynb** >> código para analise de dados.
-** >> base a ser tratada.
+**cancelamentos.csv** >> base a ser tratada.
 
 ## Passa a passo:  
 Desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolver soluçoes ?  
