@@ -17,6 +17,8 @@ Sistema abre navegador, abre pagina da empresa faz login no site cadastra cada p
 
 
 # 2º PROJETO:  
+**codigo2.ipynb** >> código para analise de dados.
+** >> base a ser tratada.
 
 ## Passa a passo:  
 Desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolver soluçoes ?  
@@ -33,6 +35,6 @@ Desafio clientes estão cancelando serviço. Vamos descobrir o pq para desenvolv
 # 4º PROJETO:
 #links uteis
 
-https://plotly.com/  >> gráficos para O Python.  
-
+[Plotly](https://plotly.com/)  >> gráficos para O Python.  
+[Kaggle](https://www.kaggle.com/datasets) >> banco de dados compartilhados para projetos.
 
