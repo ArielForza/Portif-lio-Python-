@@ -17,7 +17,7 @@ Sistema abre navegador, abre pagina da empresa faz login no site cadastra cada p
 
 
 # 2º PROJETO:  
-[Codigo2](codigo2.ipynb) >> código para analise de dados.
+[Codigo2](codigo2.ipynb) >> código para analise de dados.  
 [Cancelamentos](cancelamentos.csv) >> base a ser tratada.
 
 ## Passa a passo:  
